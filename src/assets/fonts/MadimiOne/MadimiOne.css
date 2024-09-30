@@ -1,0 +1,46 @@
+/* Madimi One Latin */
+
+@font-face {
+    font-family: 'Madimi One';
+    src: url('./madimi-one-latin-400-normal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0000-007F;
+    /* Basic Latin */
+}
+
+
+/* Madimi One Latin Extended */
+
+@font-face {
+    font-family: 'Madimi One';
+    src: url('./madimi-one-latin-ext-400-normal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0100-024F;
+    /* Latin Extended */
+}
+
+
+/* Madimi One Math */
+
+@font-face {
+    font-family: 'Madimi One';
+    src: url('./madimi-one-math-400-normal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+2200-22FF;
+    /* Mathematical Operators */
+}
+
+
+/* Madimi One Symbols */
+
+@font-face {
+    font-family: 'Madimi One';
+    src: url('./madimi-one-symbols-400-normal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+2600-26FF;
+    /* Miscellaneous Symbols */
+}

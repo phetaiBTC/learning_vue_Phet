@@ -1,0 +1,15 @@
+@import './fonts/MadimiOne/MadimiOne.css';
+@import './fonts/NotoSansLao/NotoSansLao.css';
+
+/* * {
+    font-family: 'Madimi One', 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+} */
+
+.font-mali {
+    font-family: 'Madimi One', cursive;
+}
+
+.font-noto-sans-lao {
+    font-family: 'NotoSansLao', sans-serif;
+}
